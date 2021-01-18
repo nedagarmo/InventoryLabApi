@@ -1,0 +1,2 @@
+# InventoryLabApi
+Es un proyecto de laboratorio, con algunas funciones que se podrían presentar en un API de sistema de inventario.  Tiene como objetivo servir de plantilla para la implementación de patrones de diseño en un proyecto API en ASP .NET Core.  Entre las técnicas y herramientas utilizadas están la inyección de dependencias, mappers, patrón mediador, implementación de repositorio genérico, arquitectura limpia, principios SOLID, métodos asíncronos, entre otros.
